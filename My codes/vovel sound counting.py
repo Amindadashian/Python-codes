@@ -1,5 +1,3 @@
-from itertools import count
-
 
 s=input('enter the string---> ')
 sound='e,i,u,o,'
